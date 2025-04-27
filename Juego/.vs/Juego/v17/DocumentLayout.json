@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeanp\\Desktop\\cursos\\cursos\\Aprende a programar desde cero con .NET, C# 11, Visual Studio 201922 y Git, convi\u00E9rtete en programador\\curso\\s20\\Juego Serpiente\\Juego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B209229-C5B0-46EF-B6BC-BA7DA61CA346}|Juego\\Juego.csproj|c:\\users\\jeanp\\desktop\\cursos\\cursos\\aprende a programar desde cero con .net, c# 11, visual studio 201922 y git, convi\u00E9rtete en programador\\curso\\s20\\juego serpiente\\juego\\juego\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B209229-C5B0-46EF-B6BC-BA7DA61CA346}|Juego\\Juego.csproj|solutionrelative:juego\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeanp\\Desktop\\cursos\\cursos\\Aprende a programar desde cero con .NET, C# 11, Visual Studio 201922 y Git, convi\u00E9rtete en programador\\curso\\s20\\Juego Serpiente\\Juego\\Juego\\Program.cs",
+              "RelativeDocumentMoniker": "Juego\\Program.cs",
+              "ToolTip": "C:\\Users\\jeanp\\Desktop\\cursos\\cursos\\Aprende a programar desde cero con .NET, C# 11, Visual Studio 201922 y Git, convi\u00E9rtete en programador\\curso\\s20\\Juego Serpiente\\Juego\\Juego\\Program.cs",
+              "RelativeToolTip": "Juego\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:58:44.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
